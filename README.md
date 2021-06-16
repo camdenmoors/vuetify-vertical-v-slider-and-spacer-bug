@@ -1,0 +1,1 @@
+# vuetify-vertical-v-slider-and-spacer-bug
